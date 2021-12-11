@@ -3,6 +3,7 @@ const employee = {
       
 } ;
 const new_employee = {...employee}
+
 console.log(new_employee);
 
 console.log(employee);
